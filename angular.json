@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "MarvelApp"
+  "defaultProject": "MarvelApp",
+  "cli": {
+    "analytics": "95f8ec1b-9024-4175-8ef3-c8dd6c682fcd"
+  }
 }
